@@ -1,4 +1,4 @@
-# Erasing the Opportunity Gap in New York City Public Schools
+# Erasing the Opportunity Gap in NYC Public Schools
 
 ## The "Why"
 College is the single best indicator of higher lifetime income. College completion starts with a high-quality PreK-12 education and access to resources like quality healthcare and housing. Unfortunately, not everyone has access due to generational poverty or larger, systemic issues. This leads to gaps in college completion rates by race, with Whites completing college at higher rates than Black and Hispanic/Latino students. From local education agencies to postsecondary institutions, all decision-makers have a stake in student success. The future of our economy depends on higher rates of student achievement from cradle to college so all students succeed. 
