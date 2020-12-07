@@ -8,3 +8,6 @@ The SHSAT (Specialized High School Test) provides students with access to a high
 ## About the Data 
 Two datasets were pulled by PASSNYC from the New York Department of Education (NYDOE). The first is a database of thousands of schools across New York City and the second is SHSAT registration and testers. 
 
+## End Product
+An infographic was designed using Adobe Illustrator with visualizations created in R Studio.
+
