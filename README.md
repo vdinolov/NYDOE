@@ -8,6 +8,15 @@ The SHSAT (Specialized High School Test) provides students with access to a high
 ## About the Data 
 Two datasets were pulled by PASSNYC from the New York Department of Education (NYDOE). The first is a database of thousands of schools across New York City and the second is SHSAT registration and testers. 
 
-## End Product
-An infographic was designed using Adobe Illustrator with visualizations created in R Studio.
+## Outcome 
+An infographic was designed using Adobe Illustrator with visualizations created in R Studio. 
+
+New York State is often recognized for its high-quality public education. Yet, income and access stand between students and their entrance to specialized high schools. Disparities in income become even clearer when comparing students by race and ethnicity. 1,272 NYC schools were analyzed to identify trends in student academic performance as indicated by state assessments. These scores were compared based on the percentage of economically disadvantaged students at a given schools and the schoo communites’ average household income. The following trends were identified:
+
+	• Schools with more Black and Hispanic or Latino Students and English Language Learners have a higher ENI and lower average school income estimates.
+
+	• Schools with more White Students have a lower ENI and higher average school income estimates.
+
+	• Student performance is strongly correlated with race and income as White students had higher average scores on state-wide assessments and higher school income estimates.
+	
 
