@@ -22,4 +22,5 @@ New York State is often recognized for its high-quality public education. Yet, i
 * Student performance is strongly correlated with race and income as White students had higher average scores on state-wide assessments and higher school income estimates.
 	
 An infographic was designed using Adobe Illustrator with visualizations created in R Studio that present the above information. 
+
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Infographic.PNG)
